@@ -17,7 +17,7 @@ We used **Python 3.6** for this project and implemented the code in **Jupyter No
 
 ## Code
 
-The code for this project is written in Python.Code is availaible in `AI_code`.
+The code for this project is written in Python.Code is availaible in `wine_quality_prediction.ipynb`.
 
 ## Results
 
