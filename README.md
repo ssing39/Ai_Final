@@ -17,4 +17,19 @@ We used **Python 3.6** for this project and implemented the code in **Jupyter No
 
 ## Code
 
-The code for this project is written in Python.Code is availaible in 
+The code for this project is written in Python.Code is availaible in `AI_code`.
+
+## Results
+
+Our model achieved an accuracy of 90% on the test set. The detailed results are presented below.
+![result](https://user-images.githubusercontent.com/118772847/236524331-1447110a-e48d-493b-9359-c004c55fa205.png)
+
+## Conclusion
+
+The study aimed to create a machine learning model for predicting wine quality using fewer features and tests. The study used four classification techniques,In which Random forest and Logistic regression yiels good accuracy.
+
+## Contributors
+
+	-Sushma
+	-Muppa Sruthi
+	-Sri Sai Singala
