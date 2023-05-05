@@ -30,6 +30,6 @@ The study aimed to create a machine learning model for predicting wine quality u
 
 ## Contributors
 
-	-Sushma
+	-Sushma Mandati
 	-Muppa Sruthi
 	-Sri Sai Singala
